@@ -47,3 +47,11 @@
 ![](images/ScrollAnimation.gif)
 
 #
+
+## `7 - SplitLandingPage-Project`
+
+##### Using Html,Css and JavaScript
+
+![](images/SplitLandingPage.gif)
+
+#
