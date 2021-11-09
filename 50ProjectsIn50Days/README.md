@@ -31,3 +31,11 @@
 ![](images/HiddenSearchWidget.gif)
 
 #
+
+## `5 - BlurryLoading-Project`
+
+##### Using Html,Css and JavaScript
+
+![](images/BlurryLoading.gif)
+
+#
