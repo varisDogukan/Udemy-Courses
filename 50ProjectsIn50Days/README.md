@@ -23,3 +23,11 @@
 ![](images/RotatingNavigation.gif)
 
 #
+
+## `4 - HiddenSearchWidget-Project`
+
+##### Using Html,Css and JavaScript
+
+![](images/HiddenSearchWidget.gif)
+
+#
