@@ -55,3 +55,11 @@
 ![](images/SplitLandingPage.gif)
 
 #
+
+## `8 - FormWaveAnimation-Project`
+
+##### Using Html,Css and JavaScript
+
+![](images/FormWaveAnimation.gif)
+
+#
