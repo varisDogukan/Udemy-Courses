@@ -39,3 +39,11 @@
 ![](images/BlurryLoading.gif)
 
 #
+
+## `6 - ScrollAnimation-Project`
+
+##### Using Html,Css and JavaScript
+
+![](images/ScrollAnimation.gif)
+
+#
