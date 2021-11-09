@@ -4,7 +4,7 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/foods.gif)
+![](images/Foods.gif)
 
 #
 
