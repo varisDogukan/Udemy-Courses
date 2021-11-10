@@ -8,7 +8,7 @@
 
 #
 
-## `1 - Nexter-Project`
+## `2 - Nexter-Project`
 
 ##### Using Html and Css(Sass)
 
@@ -16,7 +16,7 @@
 
 #
 
-## `1 - Trillo-Project`
+## `3 - Trillo-Project`
 
 ##### Using Html and Css(Sass)
 
