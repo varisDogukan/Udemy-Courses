@@ -71,3 +71,19 @@
 ![](images/DadJokes.gif)
 
 #
+
+## `10 - EventKeyCode-Project`
+
+##### Using Html,Css and JavaScript
+
+![](images/EventKeyCode.gif)
+
+#
+
+## `11 - FAQCollapse-Project`
+
+##### Using Html,Css and JavaScript
+
+![](images/FAQCollapse.gif)
+
+#
