@@ -87,3 +87,11 @@
 ![](images/FAQCollapse.gif)
 
 #
+
+## `12 - RandomChoicePicker-Project`
+
+##### Using Html,Css and JavaScript
+
+![](images/RandomChoicePicker.gif)
+
+#
