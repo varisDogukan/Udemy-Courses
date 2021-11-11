@@ -32,8 +32,16 @@
 
 #
 
-## `4 - Menu-Project`
+## `5 - Menu-Project`
 
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-5-menu.netlify.app/)
 
 ![](images/Menu.gif)
+
+#
+
+## `6 - Tabs-Project`
+
+##### Using Html,Css and JavaScript(React(fetching api)) [LIVE-CODE-URL](https://react-projects-6-tabs.netlify.app/)
+
+![](images/Tabs.gif)
