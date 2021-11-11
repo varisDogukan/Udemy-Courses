@@ -45,3 +45,11 @@
 ##### Using Html,Css and JavaScript(React(fetching api)) [LIVE-CODE-URL](https://react-projects-6-tabs.netlify.app/)
 
 ![](images/Tabs.gif)
+
+#
+
+## `7 - Slider-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-7-slider.netlify.app/)
+
+![](images/Slider.gif)
