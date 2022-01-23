@@ -61,3 +61,11 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-8-lorem-ipsum-generator.netlify.app/)
 
 ![](images/LoremIpsum.gif)
+
+#
+
+## `9 - ColorGenerator-Project`
+
+##### Using Html,Css, JavaScript(React), values.js [LIVE-CODE-URL](https://react-projects-9-color-generator.netlify.app/)
+
+![](images/ColorGenerator.gif)
