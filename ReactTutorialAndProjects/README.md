@@ -85,3 +85,11 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-11-navbar.netlify.app/)
 
 ![](images/Navbar.gif)
+
+#
+
+## `12 - SidebarModal-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-12-sidebar-modal.netlify.app/)
+
+![](images/SidebarModal.gif)
