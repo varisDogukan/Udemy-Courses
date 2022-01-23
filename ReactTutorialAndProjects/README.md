@@ -53,3 +53,11 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-7-slider.netlify.app/)
 
 ![](images/Slider.gif)
+
+#
+
+## `8 - LoremIpsum-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-8-lorem-ipsum-generator.netlify.app/)
+
+![](images/LoremIpsum.gif)
