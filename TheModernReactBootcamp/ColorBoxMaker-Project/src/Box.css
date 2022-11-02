@@ -1,0 +1,35 @@
+.Box{
+  box-shadow: 0 0 .5rem #0006;
+  border-radius: .3rem;
+  position: relative;
+}
+
+.Box-color {
+  border-radius: inherit;
+  transition: all .4s;
+}
+
+.Box-btn {
+  position: absolute;
+  top: 2%;
+  right: 2%;
+  border-radius: 50%;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #777;
+  opacity: 0;
+  cursor: pointer;
+  transition: all .4s;
+}
+
+.Box:hover .Box-color{
+  box-shadow: 0 0 2rem currentColor;
+}
+
+.Box:hover .Box-btn {
+  opacity: .7;
+}

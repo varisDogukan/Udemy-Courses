@@ -37,3 +37,27 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-hangman-dova.netlify.app/)
 
 ![](images/Hangman.png)
+
+#
+
+## `6 - LightsOut-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-lights-out-dova.netlify.app/)
+
+![](images/LightsOut.png)
+
+#
+
+## `7 - ColorBoxMaker-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-color-box-maker-dova.netlify.app/)
+
+![](images/ColorBoxMaker.png)
+
+#
+
+## `8 - Todo-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-todo-dova.netlify.app/)
+
+![](images/Todo.png)

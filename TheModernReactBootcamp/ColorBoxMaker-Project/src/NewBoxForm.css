@@ -1,0 +1,62 @@
+.NewBoxForm{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.NewBoxForm > *:not(:last-child){
+  margin-bottom: 1rem;
+}
+
+.NewBoxForm__group--container{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.NewBoxForm__group{
+  width: 20rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: .3rem;
+}
+
+.NewBoxForm__group--input{
+  width: 75%;
+  height: 150%;
+  padding: 0 .5rem;
+  font-size: 1.2rem;
+  color: #f99; 
+}
+
+
+.NewBoxForm__group--input:focus{
+  outline: none;
+  border-color: red;
+  box-shadow: 0 0 1rem #f006;
+}
+
+.NewBoxForm__group--label {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #777;
+}
+
+.NewBoxForm--btn {
+  border: none;
+  padding: 1rem 2rem;
+  color: #777;
+  font-size: 1.3rem;
+  transition: all .4s;
+  cursor: pointer;
+}
+
+.NewBoxForm--btn:hover {
+  background-color: #929299;
+  color: #eee;
+}

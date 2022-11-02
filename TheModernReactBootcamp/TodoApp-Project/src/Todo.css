@@ -1,0 +1,94 @@
+.Todo {
+  display: flex;
+  margin: 0 -3rem 4px;
+  padding: 1.1rem 3rem;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff2;
+}
+
+.Todo-task.completed {
+  opacity: 0.6;
+  position: relative;
+}
+
+.Todo-task.completed:before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -0.5rem;
+  width: 0%;
+  height: 2px;
+  background: #fff;
+  animation: strikeitem 0.5s ease-out 0s forwards;
+}
+
+@keyframes strikeitem {
+  to {
+    width: calc(100% + 1rem);
+  }
+}
+
+.Todo-buttons {
+  flex-shrink: 0;
+  padding-left: 0.7rem;
+}
+
+.Todo-buttons button {
+  border: none;
+  font-size: 1em;
+  margin: 0.4em;
+  background: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  color: #fff;
+  transition: all 0.4s;
+}
+
+.Todo-buttons button:hover {
+  color: #ff5353;
+  filter: drop-shadow(0 0 0.2rem #fff);
+}
+
+.Todo-edit-form {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.Todo-edit-form input {
+  outline: none;
+  border: none;
+  background: #f7f1f1;
+  padding: 0 1.5em;
+  font-size: initial;
+}
+
+.Todo-edit-form input:focus {
+  border: 1px solid #ff5353;
+}
+
+.Todo-edit-form button {
+  padding: 0 2rem;
+  border: none;
+  background: #ff6666;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 1px solid #fff3;
+  margin-left: 5px;
+  cursor: pointer;
+  transition: background 0.2s ease-out;
+  transition: all 0.4s;
+}
+
+.Todo-edit-form button:hover {
+  background: #ff5353;
+}
+
+.Todo-edit-form input,
+.Todo-edit-form button {
+  font-family: sans-serif;
+  height: 3rem;
+}
