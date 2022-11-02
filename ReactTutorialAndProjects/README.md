@@ -165,3 +165,11 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-21-movie-db.netlify.app/)
 
 ![](images/MoviesDb.png)
+
+#
+
+## `22 - HackerNew-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-22-hacker-news.netlify.app/)
+
+![](images/HackerNew.png)
