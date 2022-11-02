@@ -133,3 +133,11 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-17-random-user.netlify.app/)
 
 ![](images/RandomPerson.png)
+
+#
+
+## `18 - Pagination-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://react-projects-18-pagination.netlify.app/)
+
+![](images/Pagination.png)
