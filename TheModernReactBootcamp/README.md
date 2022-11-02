@@ -7,3 +7,9 @@
 ![](images/Pokedex.png)
 
 #
+
+## `2 - RollDice-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-rolldice-dova.netlify.app/)
+
+![](images/RollDice.png)
