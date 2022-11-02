@@ -13,3 +13,11 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-rolldice-dova.netlify.app/)
 
 ![](images/RollDice.png)
+
+#
+
+## `3 - CoinFlip-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-coinflip-dova.netlify.app/)
+
+![](images/CoinFlip.png)
