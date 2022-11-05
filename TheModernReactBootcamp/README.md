@@ -85,3 +85,11 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-dad-jokes-dova.netlify.app/)
 
 ![](images/DadJokes.png)
+
+#
+
+## `12 - ColorPalette-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-color-palette-dova.netlify.app/)
+
+![](images/ColorPalette.png)
