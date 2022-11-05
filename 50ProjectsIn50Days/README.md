@@ -127,3 +127,13 @@
 [LIVE_URL](https://tm-animated-navigation-dova.netlify.app/)
 
 ![](images/AnimatedNavigation.png)
+
+#
+
+## `14 - IncrementingCounter-Project`
+
+##### Using Html,Css and JavaScript
+
+[LIVE_URL](https://tm-incrementing-counter-dova.netlify.app/)
+
+![](images/IncrementingCounter.png)
