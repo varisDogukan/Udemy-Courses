@@ -69,3 +69,11 @@
 ##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-yahtzee-game-dova.netlify.app/)
 
 ![](images/YahtzeeGame.png)
+
+#
+
+## `10 - CardDealer-Project`
+
+##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://cs-card-dealer-dova.netlify.app/)
+
+![](images/CardDealer.png)
