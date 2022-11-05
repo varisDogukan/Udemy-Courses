@@ -119,3 +119,11 @@
 ![](images/RandomChoicePicker.png)
 
 #
+
+## `13 - AnimatedNavigation-Project`
+
+##### Using Html,Css and JavaScript
+
+[LIVE_URL](https://tm-animated-navigation-dova.netlify.app/)
+
+![](images/AnimatedNavigation.png)
