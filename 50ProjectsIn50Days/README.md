@@ -4,7 +4,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/ExpandingCards.gif)
+[LIVE_URL](https://tm-expanding-cards-dova.netlify.app/)
+
+![](images/ExpandingCards.png)
 
 #
 
@@ -12,7 +14,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/ProgressSteps.gif)
+[LIVE_URL](https://tm-progress-steps-dova.netlify.app/)
+
+![](images/ProgressSteps.png)
 
 #
 
@@ -20,7 +24,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/RotatingNavigation.gif)
+[LIVE_URL](https://tm-rotating-navigation-dova.netlify.app/)
+
+![](images/RotationgNavigation.png)
 
 #
 
@@ -28,7 +34,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/HiddenSearchWidget.gif)
+[LIVE_URL](https://tm-hidden-search-widget-dova.netlify.app/)
+
+![](images/HiddenSearchWidget.png)
 
 #
 
@@ -36,7 +44,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/BlurryLoading.gif)
+[LIVE_URL](https://tm-blurry-loading-dova.netlify.app/)
+
+![](images/BlurryLoading.png)
 
 #
 
@@ -44,7 +54,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/ScrollAnimation.gif)
+[LIVE_URL](https://tm-scroll-animation-dova.netlify.app/)
+
+![](images/ScrollAnimation.png)
 
 #
 
@@ -52,7 +64,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/SplitLandingPage.gif)
+[LIVE_URL](https://tm-split-landing-page-dova.netlify.app/)
+
+![](images/SplitLandingPage.png)
 
 #
 
@@ -60,7 +74,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/FormWaveAnimation.gif)
+[LIVE_URL](https://tm-form-wave-animation-dova.netlify.app/)
+
+![](images/FormWaveAnimation.png)
 
 #
 
@@ -68,7 +84,9 @@
 
 ##### Using Html,Css and JavaScript(fetching api)
 
-![](images/DadJokes.gif)
+[LIVE_URL](https://tm-dad-jokes-dova.netlify.app/)
+
+![](images/DadJokes.png)
 
 #
 
@@ -76,7 +94,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/EventKeyCode.gif)
+[LIVE_URL](https://tm-event-key-codes-dova.netlify.app/)
+
+![](images/EventKeyCodes.png)
 
 #
 
@@ -84,7 +104,9 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/FAQCollapse.gif)
+[LIVE_URL](https://tm-faq-collapse-dova.netlify.app/)
+
+![](images/FAQCollapse.png)
 
 #
 
@@ -92,6 +114,8 @@
 
 ##### Using Html,Css and JavaScript
 
-![](images/RandomChoicePicker.gif)
+[LIVE_URL](https://tm-random-choice-picker-dova.netlify.app/)
+
+![](images/RandomChoicePicker.png)
 
 #
