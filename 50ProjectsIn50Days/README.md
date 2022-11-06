@@ -157,3 +157,13 @@
 [LIVE_URL](https://tm-movie-app-dova.netlify.app/)
 
 ![](images/MovieApp.png)
+
+#
+
+## `17 - BackgroundSlider-Project`
+
+##### Using Html,Css and JavaScript
+
+[LIVE_URL](https://tm-background-slider-dova.netlify.app/)
+
+![](images/BackgroundSlider.png)
