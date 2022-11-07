@@ -167,3 +167,13 @@
 [LIVE_URL](https://tm-background-slider-dova.netlify.app/)
 
 ![](images/BackgroundSlider.png)
+
+#
+
+## `18 - ThemeClock-Project`
+
+##### Using Html,Css and JavaScript
+
+[LIVE_URL](https://tm-theme-clock-dova.netlify.app/)
+
+![](images/ThemeClock.png)
