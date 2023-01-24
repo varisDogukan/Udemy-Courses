@@ -2,6 +2,6 @@
 
 ## `1 - ECommerce-Project`
 
-##### Using Html,Css and JavaScript(React) [LIVE-CODE-URL](https://proshopdovapp.herokuapp.com/)
+##### Using Html,Css and JavaScript(React) 
 
 ![](images/ECommerce.png)
